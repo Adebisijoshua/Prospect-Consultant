@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PROSPECT"
+echo "PROSPECT Academy is cool!"
